@@ -1,6 +1,6 @@
 
 
-# 184,467,447,379,551,616 readers
+# 184,467,447,379,551,616 speakers
 
 August 15, 1977 was a day for human beings to commemorate. The Pan-Galactic Union and human beings made the first contact. The problem is that humans can not understand pan-galactic language. So, according to Chomsky's generative grammar, humans sent 42 babies with their families to the headquarters of the Pan-Galactic Union, the Sombrero Galaxy. The baby learns the words of the land where he grew up. Therefore, they are expected to learn Pan-Galactic and return home.
 
