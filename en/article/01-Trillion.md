@@ -1,6 +1,6 @@
 
 
-# 184,467,447,379,551,616 readers
+# 184,467,447,379,551,616 speakers
 
 August 15, 1977 was a day for human beings to commemorate. The Pan-Galactic Union and human beings made the first contact. The problem is that humans can not understand pan-galactic language. So, according to Chomsky's generative grammar, humans sent 42 babies with their families to the headquarters of the Pan-Galactic Union, the Sombrero Galaxy. The baby learns the words of the land where he grew up. Therefore, they are expected to learn Pan-Galactic and return home.
 
@@ -36,11 +36,11 @@ Graham replied, "The number of Earthlings is considerably less than the number o
 
 One of the experts said, "How many Pan-Galactic speakers do you have?"
 
-Graham replied, "The Pan-Galactic Union reported last year that there were 184, 467, 447, 379, 551, 616 speakers of Pan-Galactic."
+Graham replied, "The Pan-Galactic Union reported last year that there were 184467447379551616 speakers of Pan-Galactic."
 
 One of the experts said, "Too many digit figures."
 
-Another expert said, "18,000 trillion people."
+Another expert said, "180,000 trillion people."
 
 Another expert said, "Dr. Graham, if all the Earthers use the translator properly, all Pan Galactic translators will go bankrupt."
 
@@ -48,7 +48,7 @@ Graham said, "Don't worry. You will need more programmers as computer technology
 
 Another expert said, "Machine-directed language distorts our linguistic culture."
 
-Graham said, "Yes. Do you know the word" MARAMIKHU "?"
+Graham said, "Yes. Do you know the word 'MARAMIKHU?' "
 
 None of the experts knew the word.
 
@@ -56,15 +56,15 @@ None of the experts knew the word.
 
 "Well," the turtle cut off your story, "I want to know the consequences of the argument. Have humans started to use universal translators?"
 
-You said, "No, a universal translator is considered an imperfect device, and humans have sent a request to the Pan-Galactic Coalition to improve the program."
+You said, "No, a universal translator is considered an imperfect device, and humans have sent a request to the Pan-Galactic Union to improve the program."
 
 The turtle said, "What happened with that?"
 
-You said, "The Pan-Galactic Coalition rejected the request."
+You said, "The Pan-Galactic Union rejected the request."
 
 "why?"
 
-"A civilization that has developed enough to use a universal translator will collapse before the Pan-Galactic Coalition finishes its program improvements."
+"A civilization that has developed enough to use a universal translator will collapse before the Pan-Galactic Union finishes its program improvements."
 
 <br>
 <br>
