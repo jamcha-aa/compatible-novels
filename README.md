@@ -12,6 +12,8 @@ actionLink: /article/
 
 画面上部の「言語」メニューで、本文を他言語に変更できます。
 
+[「英語に適切に翻訳される日本語の文体」とは？](https://github.com/jamcha-aa/compatible-novels/wiki)
+
 <br>
 <br>
 
