@@ -37,7 +37,7 @@ module.exports = {
                 selectText: 'Languages',
                 label: 'English',
                 nav: [
-                    { text: 'Home', link: '/' },
+                    { text: 'Home', link: '/en/' },
                     { text: 'Works', link: 'https://jamcha-aa.github.io/About/' },
                     { text: 'GitHub', link: 'https://github.com/jamcha-aa/compatible-novels/' }
                 ],
