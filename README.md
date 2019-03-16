@@ -17,7 +17,7 @@ actionLink: /article/
 <br>
 <br>
 
-この物語はフィクションであり，実在の人物・ソフトウェア・団体とは一切関係ありません。
+この物語はフィクションであり，実在の人物・地名・団体とは一切関係ありません。
 
 Copyright (c) 2019 jamcha (jamcha.aa@gmail.com).  
 
