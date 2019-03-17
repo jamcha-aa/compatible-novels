@@ -55,7 +55,7 @@ module.exports = {
                 selectText: 'Languages',
                 label: 'Español',
                 nav: [
-                    { text: 'Home', link: '/en/' },
+                    { text: 'Home', link: '/es/' },
                     { text: 'Works', link: 'https://jamcha-aa.github.io/About/' },
                     { text: 'GitHub', link: 'https://github.com/jamcha-aa/compatible-novels/' }
                 ],
