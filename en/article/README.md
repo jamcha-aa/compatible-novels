@@ -2,11 +2,11 @@
 
 # Galactic Edge
 
-After a vast journey, you arrived at the base of Jupitor's satellite Europa. When you open the base door, a turtle on the desk welcomes you.
+After a vast journey, you arrived at the base of Jupiter's satellite Europa. When you open the base door, a turtle on the desk welcomes you.
 
 The turtle said, "It's unusual to see a customer. Is it for something?"
 
-You ask the turtle about the purpose of coming to this facility, that is, a universal translator.
+You ask the turtle about the purpose of coming to this facility, that is, "the universal translation machine".
 
 "Oh ..." The turtle heard that, and withdrew her head to her body. "There is a problem with the translator."
 
@@ -22,9 +22,9 @@ The turtle stretches out and says, "Hmm, the problem is not with the machine but
 
 The turtle was about to fall from the desk, so you crawled, grabbed it, and returned it to its original location.
 
-"Thank you."
+"Thank you"
 
-The turtle thanked you. "So ... yes, wording."
+The turtle thanked you. "So ... yes, wording"
 
 The turtle scratched her forefoot. The screen then displayed a letter that you could read.
 
@@ -43,9 +43,9 @@ The turtle said, "In your case, there are 32767 items."
 
 "What a thing," you screamed. "I understand the problem with universal translators. It takes a lot of training to use this tool."
 
-"That's right," the turtle said, turning off the screen. "That is ..."
+"That's right," said the turtle, turning off the screen. "That is ..."
 
-"Okay, I will learn the appropriate language for translators," you tapped your chest.
+"Okay, I will learn the appropriate language for translators," you said by tapping on the chest.
 
 "Hmmm?" Your words surprised the turtle to stretch more than it could.
 
@@ -57,11 +57,11 @@ The turtle scratched her forefoot again. Then a round hole was opened on the des
 
 The turtle looked at you and said, "Please insert this chip into your terminal. Then the translator will be available soon."
 
-"Thank you." You said thank you to the turtle, insert the chip into the handset, and said, "By the way you said customers are rare, right?"
+"Thank you." You said thank you to the turtle, insert the chip into the handset, and said, "By the way you said customers are rare, right?
 
 "Yes. Other customers will not visit for a while."
 
-When you heard that you smiled and said, "I need training on a translator. So, let me tell you some stories I know?"
+When you heard that you smiled and said, "I need training on a translator. So, let me tell you some stories I know of?"
 
 The turtle was surprised again and stretched her neck.
 
