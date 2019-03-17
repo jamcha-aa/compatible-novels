@@ -60,7 +60,7 @@ module.exports = {
                     { text: 'GitHub', link: 'https://github.com/jamcha-aa/compatible-novels/' }
                 ],
                 sidebar: {
-                    '/es/article/': summaryes.genSidebarConfig('Table of Contents')
+                    '/es/article/': summaryes.genSidebarConfig('Tabla de contenido')
                 }
             }
         }
