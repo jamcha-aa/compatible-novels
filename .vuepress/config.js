@@ -1,5 +1,6 @@
 const summaryja = require('./summaryja.js');
 const summaryen = require('./summaryen.js');
+const summaryes = require('./summaryes.js');
 
 module.exports = {
     locales: {
@@ -12,6 +13,11 @@ module.exports = {
             lang: 'en-US',
             title: 'Translator from Europa',
             description: 'Novels written in Japanese style that can be properly translated into English.'
+        },
+        '/es/': {
+            lang: 'es-ES',
+            title: 'Traductor de Europa',
+            description: 'Novelas escritas en estilo japonés que pueden traducirse correctamente al inglés.'
         }
     },
     meta: [
@@ -43,6 +49,18 @@ module.exports = {
                 ],
                 sidebar: {
                     '/en/article/': summaryen.genSidebarConfig('Table of Contents')
+                }
+            },
+            '/es/': {
+                selectText: 'Languages',
+                label: 'Español',
+                nav: [
+                    { text: 'Home', link: '/en/' },
+                    { text: 'Works', link: 'https://jamcha-aa.github.io/About/' },
+                    { text: 'GitHub', link: 'https://github.com/jamcha-aa/compatible-novels/' }
+                ],
+                sidebar: {
+                    '/es/article/': summaryes.genSidebarConfig('Table of Contents')
                 }
             }
         }
