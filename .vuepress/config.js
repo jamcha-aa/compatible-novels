@@ -52,7 +52,7 @@ module.exports = {
                 }
             },
             '/es/': {
-                selectText: 'Languages',
+                selectText: 'Idioma',
                 label: 'Español',
                 nav: [
                     { text: 'Home', link: '/es/' },
